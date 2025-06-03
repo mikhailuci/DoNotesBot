@@ -19,3 +19,6 @@
 * Kotlin
 * Kotlin Telegram Bot
 * Kotlin Exposed
+
+## Как пользоваться
+Название бота в телеграм - @note_hahabot
