@@ -1,3 +1,3 @@
 
-rootProject.name = "NoteBot"
+rootProject.name = "DoNoteBot"
 
