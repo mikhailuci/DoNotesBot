@@ -37,7 +37,7 @@ val commandMap = mapOf(
     Pair(TimezoneCommand.getCommandName(), TimezoneCommand)
 )
 
-val BOT_TOKEN = "7087275598:AAG62MXYy85ftpKCV6g8hrBdOAWVdLTXcYw"
+val BOT_TOKEN = ""
 
 private fun initDatabase() {
     Database.connect(url = "jdbc:sqlite:note.db", driver = "org.sqlite.JDBC")
